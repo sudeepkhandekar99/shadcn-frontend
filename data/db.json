@@ -1,0 +1,40 @@
+{
+    "recipes": [
+      {
+        "id": "1",
+        "title": "Spaghetti Bolognese",
+        "time": 45,
+        "description": "A classic Italian pasta dish with a rich and savory meat sauce.",
+        "vegan": false
+      },
+      {
+        "id": "2",
+        "title": "Vegan Buddha Bowl",
+        "time": 30,
+        "description": "A healthy mix of quinoa, roasted vegetables, and tahini dressing.",
+        "vegan": true
+      },
+      {
+        "id": "3",
+        "title": "Chicken Caesar Salad",
+        "time": 20,
+        "description": "A crisp salad with grilled chicken, Caesar dressing, and parmesan.",
+        "vegan": false
+      },
+      {
+        "id": "4",
+        "title": "Vegan Chocolate Cake",
+        "time": 60,
+        "description": "A moist and rich chocolate cake made without any animal products.",
+        "vegan": true
+      },
+      {
+        "id": "5",
+        "title": "Beef Tacos",
+        "time": 25,
+        "description": "Seasoned ground beef with fresh toppings in a crunchy taco shell.",
+        "vegan": false
+      }
+    ]
+  }
+  
