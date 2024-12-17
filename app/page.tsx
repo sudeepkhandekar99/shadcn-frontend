@@ -24,7 +24,7 @@ async function getRecipes(): Promise<Recipe[]> {
   const result = await fetch('http://localhost:4000/recipes')
 
   // delay response
-  await new Promise((resolve) => setTimeout(resolve,3000))
+  await new Promise((resolve) => setTimeout(resolve,1500))
 
   return result.json()
 }
